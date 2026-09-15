@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/dal-dekorasyon.html" },
+    { "source": "/lander", "destination": "/dal-dekorasyon.html" },
+    { "source": "/lander/", "destination": "/dal-dekorasyon.html" }
+  ]
+}
