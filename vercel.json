@@ -1,5 +1,7 @@
 {
   "redirects": [
+    { "source": "/ileti%C5%9Fim", "destination": "/#iletisim", "permanent": true },
+    { "source": "/ileti%C5%9Fim/", "destination": "/#iletisim", "permanent": true },
     { "source": "/iletişim", "destination": "/#iletisim", "permanent": true },
     { "source": "/iletişim/", "destination": "/#iletisim", "permanent": true },
     { "source": "/iletisim", "destination": "/#iletisim", "permanent": true },
