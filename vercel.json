@@ -41,8 +41,18 @@
       "permanent": true
     },
     {
+      "source": "/duvar-onarimi.html",
+      "destination": "/duvar-onarimi",
+      "permanent": true
+    },
+    {
+      "source": "/dekoratif-duvar",
+      "destination": "/duvar-onarimi",
+      "permanent": true
+    },
+    {
       "source": "/dekoratif-duvar.html",
-      "destination": "/dekoratif-duvar",
+      "destination": "/duvar-onarimi",
       "permanent": true
     }
   ],
@@ -68,8 +78,8 @@
       "destination": "/alci-siva.html"
     },
     {
-      "source": "/dekoratif-duvar",
-      "destination": "/dekoratif-duvar.html"
+      "source": "/duvar-onarimi",
+      "destination": "/duvar-onarimi.html"
     }
   ]
 }
