@@ -1,15 +1,75 @@
 {
   "redirects": [
-    { "source": "/ileti%C5%9Fim", "destination": "/#iletisim", "permanent": true },
-    { "source": "/ileti%C5%9Fim/", "destination": "/#iletisim", "permanent": true },
-    { "source": "/iletişim", "destination": "/#iletisim", "permanent": true },
-    { "source": "/iletişim/", "destination": "/#iletisim", "permanent": true },
-    { "source": "/iletisim", "destination": "/#iletisim", "permanent": true },
-    { "source": "/iletisim/", "destination": "/#iletisim", "permanent": true }
+    {
+      "source": "/ileti%C5%9Fim",
+      "destination": "/#iletisim",
+      "permanent": true
+    },
+    {
+      "source": "/ileti%C5%9Fim/",
+      "destination": "/#iletisim",
+      "permanent": true
+    },
+    {
+      "source": "/iletişim",
+      "destination": "/#iletisim",
+      "permanent": true
+    },
+    {
+      "source": "/iletişim/",
+      "destination": "/#iletisim",
+      "permanent": true
+    },
+    {
+      "source": "/iletisim",
+      "destination": "/#iletisim",
+      "permanent": true
+    },
+    {
+      "source": "/iletisim/",
+      "destination": "/#iletisim",
+      "permanent": true
+    },
+    {
+      "source": "/boya-badana.html",
+      "destination": "/boya-badana",
+      "permanent": true
+    },
+    {
+      "source": "/alci-siva.html",
+      "destination": "/alci-siva",
+      "permanent": true
+    },
+    {
+      "source": "/dekoratif-duvar.html",
+      "destination": "/dekoratif-duvar",
+      "permanent": true
+    }
   ],
   "rewrites": [
-    { "source": "/", "destination": "/dal-dekorasyon.html" },
-    { "source": "/lander", "destination": "/dal-dekorasyon.html" },
-    { "source": "/lander/", "destination": "/dal-dekorasyon.html" }
+    {
+      "source": "/",
+      "destination": "/dal-dekorasyon.html"
+    },
+    {
+      "source": "/lander",
+      "destination": "/dal-dekorasyon.html"
+    },
+    {
+      "source": "/lander/",
+      "destination": "/dal-dekorasyon.html"
+    },
+    {
+      "source": "/boya-badana",
+      "destination": "/boya-badana.html"
+    },
+    {
+      "source": "/alci-siva",
+      "destination": "/alci-siva.html"
+    },
+    {
+      "source": "/dekoratif-duvar",
+      "destination": "/dekoratif-duvar.html"
+    }
   ]
 }
